@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanikamorris
 - 👀 I’m interested in Cloud Compluting/Cyber Security/Coding 
-- 🌱 I’m currently studying Cloud Security with IN4 Group/Skills City. Working towards the AWS Cloud Practioner Cert. 
+- 🌱 Completed the Cloud Security bootcamp with IN4 Group/Skills City. I have the AWS Cloud Practioner Cert and the Cisco Fundamentals in Cybersecurity Cert. 
 - 💞️ I’m looking for constructive criticism :) and help! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shanikamorris/).
 - 😄 Pronouns: She/Her
